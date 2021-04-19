@@ -5,7 +5,7 @@
 
 * .[About](#about)
 * .[Requirements](#requirements)
-* .[API Documentation](#api documentation)
+* .[API Documentation](#documentation)
 
 
 ## About
@@ -20,7 +20,7 @@ The stated requirements were to implement a cypher and expose its encode and dec
 Minimum requirements were handling latin uppercase and lowercase letters, numbers and several whitespace characters.
 
 
-## API Documentation:
+## Documentation:
 
 The API exposes two endpoints:
 
